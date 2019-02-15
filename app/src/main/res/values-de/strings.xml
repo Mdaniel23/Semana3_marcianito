@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Semana3_marcianito</string>
+    <string name="text_saludo">Willkommen</string>
+    <string name="boton_texto">Betreten</string>
+
+</resources>
